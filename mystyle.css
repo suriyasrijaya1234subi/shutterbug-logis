@@ -1,0 +1,15 @@
+body {
+  background-image: url('nila.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+div {
+  color: black;
+}
+div {
+  background-color: white;
+  width: 300px;
+  border: 15px solid white;
+  padding: 50px;
+  margin: 20px;
+}
